@@ -15,7 +15,7 @@ public class BotoesConf {
 	
 	/**
 	 * @author Glauber Oliveira
-	 * Contem todos os Botões de Confirmação do Sistema
+	 * Contem todos os Botões de Confirmação do Sistema 
 	 */
 	
 	public void addCart2() {
