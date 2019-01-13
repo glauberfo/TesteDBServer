@@ -1,6 +1,6 @@
 ## TestDBServer
 
-#### Java - Automação DBServer
+#### Java - Automação DBServer 
 
   Projeto para automatizar a plataforma de teste DBserver, buscando fazer a cobertura da maior parte possível de cenários de testes no sistema. A automação é feita utilizando a IDE do Eclipse, Framework do Selenium WebDriver e o JUnit para execução dos testes. 
 Para organizar e compilar o projeto foi utilizado o Maven, que também faz o gerenciamento das pastas.
