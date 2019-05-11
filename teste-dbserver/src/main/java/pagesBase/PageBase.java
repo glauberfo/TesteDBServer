@@ -40,7 +40,7 @@ public class PageBase {
     	System.setProperty("webdriver.chrome.driver", "/home/chromedriver.exe"); 
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.get("http://automationpractice.com");
+        driver.get("http://google.com");
         
         pgmt = new PageMethods(driver);
         pgim = new ItensMenu(driver);
